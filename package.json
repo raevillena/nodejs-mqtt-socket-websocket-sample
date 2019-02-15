@@ -1,0 +1,15 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "a simple socket test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "rae",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
